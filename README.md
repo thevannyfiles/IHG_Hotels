@@ -1,7 +1,7 @@
 # IHG Hotels Analysis
 
 
-****Description:**** The "IHG Dashboard - Covid's Financial Impact Analysis" project offers a comprehensive exploration of the financial repercussions of the COVID-19 pandemic on IHG Hotels. By leveraging booking data sourced from 2020 and previous years, this project presents a compelling narrative that unveils the profound influence of the pandemic on IHG's revenue streams. Through the use of data analysis tools such as Excel, SQL, and Power BI, the project conducts detailed examinations to identify the regions, hotel brands, and scales that experienced the highest and lowest revenue, as well as those that booked the most rooms, segmented by quarter.
+****Description:**** This project offers a comprehensive exploration of the financial repercussions of the COVID-19 pandemic on IHG Hotels. By leveraging booking data sourced from 2020 and previous years, this project presents a compelling narrative that unveils the profound influence of the pandemic on IHG's revenue streams. Through the use of data analysis tools such as Excel, SQL, and Power BI, the project conducts detailed examinations to identify the regions, hotel brands, and scales that experienced the highest and lowest revenue, as well as those that booked the most rooms, segmented by quarter.
 
 ### Key Insights Explored:
 
